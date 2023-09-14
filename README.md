@@ -23,14 +23,14 @@ iOS 플레이키보드 유저분들의 편리한 입력을 위해 ‘클립보�
 > <br> <br>
 >(플레이키보드에서 텍스트 복사/붙여넣기를 진행해야 옵션이 노출됩니다.)
 >
-><img width="740" alt="clipboard3-ko" src="https://github.com/BitbyteCorp/Clipboard_Permissions/assets/103012087/7b9f7efc-864d-46ad-af23-5fb5ce25558d">
+><img width="740" alt="clipboard3-ko" src="./Image/clipboard3-ko.png">
 
 
 
 
 
 <br><br>
-<img width="740" alt="clipboard2-ko" src="https://github.com/BitbyteCorp/Clipboard_Permissions/assets/103012087/9cd5343d-d84b-4321-894f-8e3a0c594bbe">
+<img width="740" alt="clipboard2-ko" src="./Image/clipboard2-ko.png">
 
 #### 권한 허용을 하지 않으면 붙여넣기 팝업이 재노출됩니다.
 
