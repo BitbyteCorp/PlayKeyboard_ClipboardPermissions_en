@@ -11,7 +11,7 @@ iOS 플레이키보드 유저분들의 편리한 입력을 위해 ‘클립보�
 
 아래 안내를 따라 **최초 1회** 꼭 권한을 허용해주세요!
 
-<img width="740" alt="clipboard1-ko" src="https://github.com/BitbyteCorp/Clipboard_Permissions/assets/103012087/47d212dc-07de-4aa4-ad89-2644b56789a8">
+<img width="740" alt="clipboard1-ko" src="./Image/clipboard1-ko.png">
 
 #### 클립보드 권한 허용 방법
 
