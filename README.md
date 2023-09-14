@@ -1,4 +1,4 @@
-# 클립보드 허용 권한 안내
+### 클립보드 허용 권한 안내
 
 ---
 
@@ -13,27 +13,26 @@ iOS 플레이키보드 유저분들의 편리한 입력을 위해 ‘클립보�
 
 <img width="740" alt="clipboard1-ko" src="https://github.com/BitbyteCorp/Clipboard_Permissions/assets/103012087/47d212dc-07de-4aa4-ad89-2644b56789a8">
 
-### 클립보드 권한 허용 방법
+#### 클립보드 권한 허용 방법
 
 ① 아이폰 설정 → 플레이키보드 → **다른 앱에서 붙여넣기** 선택
 
 ② 묻기 → **허용** 선택, 끝!
+<br><br>
+> 📌 ‘다른 앱에서 붙여넣기’ 옵션이 보이지 않는다면, 아래 방법을 따라해주세요.
+> <br> <br>
+>(플레이키보드에서 텍스트 복사/붙여넣기를 진행해야 옵션이 노출됩니다.)
+>
+><img width="740" alt="clipboard3-ko" src="https://github.com/BitbyteCorp/Clipboard_Permissions/assets/103012087/7b9f7efc-864d-46ad-af23-5fb5ce25558d">
 
-<aside>
-📌 ‘다른 앱에서 붙여넣기’ 옵션이 보이지 않는다면, 아래 방법을 따라해주세요.
-
-(플레이키보드에서 텍스트 복사/붙여넣기를 진행해야 옵션이 노출됩니다.)
-
-<img width="740" alt="clipboard3-ko" src="https://github.com/BitbyteCorp/Clipboard_Permissions/assets/103012087/7b9f7efc-864d-46ad-af23-5fb5ce25558d">
 
 
-</aside>
 
 
 <br><br>
 <img width="740" alt="clipboard2-ko" src="https://github.com/BitbyteCorp/Clipboard_Permissions/assets/103012087/9cd5343d-d84b-4321-894f-8e3a0c594bbe">
 
-### 권한 허용을 하지 않으면 붙여넣기 팝업이 재노출됩니다.
+#### 권한 허용을 하지 않으면 붙여넣기 팝업이 재노출됩니다.
 
 `다른 앱에서 붙여넣기` 권한을 ‘허용’으로 선택 시, 붙여넣기 팝업이 노출되지 않습니다.
 
